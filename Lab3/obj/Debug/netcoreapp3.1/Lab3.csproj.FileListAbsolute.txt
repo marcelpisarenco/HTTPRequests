@@ -1,0 +1,16 @@
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll.config
+D:\University\Semestru 6\PR\Lab3\Lab3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\Semestru 6\PR\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CopyComplete
